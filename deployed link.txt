@@ -1,0 +1,4 @@
+deployed link
+
+frontend:- https://ecommerce.vercel.app/
+backend :- https://pear-poised-hen.cyclic.app/
